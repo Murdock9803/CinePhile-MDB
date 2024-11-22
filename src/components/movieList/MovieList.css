@@ -1,0 +1,19 @@
+.movie_list {
+    padding: 0rem 3rem 3rem 3rem;
+    margin: 2.5rem 0;
+}
+
+.list_title {
+font-size: 1.75rem;
+margin: 2.5rem 2.5rem 3.5rem;
+border: 2px solid white;
+display: inline-block;
+padding: 5px 10px;
+background-color: rgb(8, 28, 46);
+}
+
+.list_cards {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+}
