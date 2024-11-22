@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CinePhile-MDB/static/css/main.bcdae241.css",
+    "main.js": "/CinePhile-MDB/static/js/main.06bd8c85.js",
+    "index.html": "/CinePhile-MDB/index.html",
+    "main.bcdae241.css.map": "/CinePhile-MDB/static/css/main.bcdae241.css.map",
+    "main.06bd8c85.js.map": "/CinePhile-MDB/static/js/main.06bd8c85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcdae241.css",
+    "static/js/main.06bd8c85.js"
+  ]
+}
