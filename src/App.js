@@ -9,7 +9,7 @@ import Footer from './components/footer/Footer';
 
 function App() {
 
-  const basename = process.env.NODE_ENV === "production" ? "/CinePhile-Movies" : "";
+  const basename = process.env.NODE_ENV === "production" ? "/CinePhile-MDB" : "";
 
   return (
     <div className="App">
